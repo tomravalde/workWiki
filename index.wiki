@@ -1,0 +1,3 @@
+= My knowledge base =
+	* [[Urgent Tasks]] -- things to do!
+	* ScratchPad -- stuff.
